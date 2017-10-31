@@ -1,2 +1,2 @@
 # studyTask
-Play - REST application test5
+Play - REST application test6
