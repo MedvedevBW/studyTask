@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
 
-echo "branch name: $BRANCH_NAME"
+echo "CHANGE_TARGET: $CHANGE_TARGET"
+echo "GIT_BRANCH $GIT_BRANCH"
+echo "BRANCH_NAME $BRANCH_NAME"
