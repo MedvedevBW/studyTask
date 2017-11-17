@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
 <coverage 
-line-rate="0.73" lines-valid="230" lines-covered="167" branches-valid="20" branches-covered="12" branch-rate="0.60" complexity="0" version="1.0" timestamp="1510825659037">
+line-rate="0.73" lines-valid="240" lines-covered="167" branches-valid="20" branches-covered="12" branch-rate="0.60" complexity="0" version="1.0" timestamp="1510825659037">
     <sources>
         <source>--source</source>
         <source>/home/medvedev_vv/git/caverage/sbt-scoverage-samples/src/main/scala</source>
