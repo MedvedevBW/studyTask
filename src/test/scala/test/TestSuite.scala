@@ -23,6 +23,6 @@ import org.scalatest.{FlatSpec, Matchers}
 class TestSuite extends FlatSpec with Matchers {
   "summ" should "return summ" in {
     val test = new Test
-    assert(test.summ(1,2) == 3)
+    assert(test.summ(1,2) == 4)
   }
 }
