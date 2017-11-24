@@ -2,4 +2,4 @@
 
 sbt test
 
-echo "xxx $?"
+echo "xxx $? 111"
