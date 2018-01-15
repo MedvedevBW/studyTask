@@ -6,7 +6,7 @@ scala:
 
 script:
  - if [ "$TRAVIS_BRANCH" == "master" ]; then
-      TAG=123
-      echo $TAG
+      #TAG=123
+      echo "1213"
     fi
 
