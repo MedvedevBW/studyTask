@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-echo "CHANGE_TARGET: $CHANGE_TARGET"
-echo "GIT_BRANCH $GIT_BRANCH"
-echo "BRANCH_NAME $BRANCH_NAME"
+sbt test
+
+echo "xxx $? 111"
