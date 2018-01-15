@@ -8,3 +8,4 @@ script:
       echo "1213"
     fi
 
+after_success: "echo ok"
