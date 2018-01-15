@@ -5,7 +5,8 @@ scala:
 
 script:
  - if [ "$TRAVIS_BRANCH" == "master" ]; then
-      echo "1213";
+      TAG=`cat version`;
+      echo $TAG;
     fi;
 
 after_success: "echo ok"
